@@ -1,0 +1,19 @@
+package week3.day1assignment;
+
+public class StringText {
+
+	public static void main(String[] args) {
+		
+		String text = "Java Exercise";
+		
+		int index = text.indexOf("E");
+		System.out.println("Index of E is "+index);
+		int index1 = text.indexOf("s");
+		System.out.println("Index of s is "+index1);
+			}
+
+		}
+
+	
+
+
